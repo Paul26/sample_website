@@ -1,4 +1,3 @@
+<h1>README</h1>
 
-<p>
-  <strong>This is README.md file example.</strong>
-</p>
+<p>Sample website work in progress</p>
