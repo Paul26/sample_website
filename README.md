@@ -1,3 +1,4 @@
 
-
-This is an example README.md file.
+<p>
+  <strong>This is README.md file example.</strong>
+</p>
